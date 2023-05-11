@@ -130,8 +130,8 @@ dmypy.json
 *.csv
 *.history
 *.txt
-*.png
-*.zip
-*.docx
 
+*.zip
+*.pdf
+final/KronosKidnapping/resumes/*
 venv*/
